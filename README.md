@@ -7,4 +7,6 @@ I thought it'd be fun to go over these projects again.
 ### Exercise 1: String Operation
 Count all the words from Shakespear's work and find out the words with the highest frequency.
 
+Notebook: [https://colab.research.google.com/github/gr-grey/python-data-exercises/blob/main/exercise1_string.ipynb](https://colab.research.google.com/github/gr-grey/python-data-exercises/blob/main/exercise1_string.ipynb)
+
 
